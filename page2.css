@@ -1,0 +1,32 @@
+.navbar-brand{
+    font-family: 'Cinzel', serif;
+}
+
+.row{
+    margin: 5% 0%;
+}
+
+.col-md img{
+    width: 100%;
+    align-content: center;
+}
+
+.col-md p{
+    text-align: justify;
+    text-justify: inter-word;
+    font-family: 'Quattrocento', serif;
+}
+
+.col-md h6{
+    font-size: 15px;
+    padding-top: 2%;
+}
+
+@media (max-width: 575px) { 
+    .title h1{
+       font-size: 40px;
+    }
+    .image p{
+        font-size: 10px;
+    }
+}
